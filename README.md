@@ -1,1 +1,2 @@
-juet read the added pdf file
+
+[NetworksProject.pdf](https://github.com/user-attachments/files/18041792/NetworksProject.pdf)
